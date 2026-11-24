@@ -1,0 +1,9 @@
+{
+    "name": "urfu/ulyanab1337",
+    "type": "project",
+    "description": "LabWork",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {  "App\\": "src/"  }
+    }
+}
